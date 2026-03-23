@@ -1,5 +1,13 @@
 # blackroad-encryption-suite
 
+> BlackRoad Security - ublackroad encryption suite
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Security](https://github.com/BlackRoad-Security)
+
+---
+
+# blackroad-encryption-suite
+
 Pure Python (stdlib-only) cryptographic toolkit. **No third-party dependencies.**
 
 ## Features
